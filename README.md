@@ -7,12 +7,10 @@ Simple FTP-server
 
 ###### Start FTP-server
 ```
-cd Server
 python server.py
 ```
 
 ###### Start FTP-client
 ```cd
-cd Client
 python client.py
 ```
